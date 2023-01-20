@@ -1,0 +1,71 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.Widgets {
+    width: 500px;
+    height: 200px;
+    background: #2269BB;
+    color: #C9C2D1;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#middleBlocks {
+    display: flex;
+    padding-top: 10px;
+    width: 500px;
+    height: 200px;
+    justify-content: space-between;
+}
+
+.BigWidgets {
+    width: 160px;
+    height: 200px;
+    background: #16457A;
+    color: #C9C2D1;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.BiggerWidgets {
+    width: 160px;
+    height: 200px;
+    background: #16457A;
+    color: #C9C2D1;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.HugeWidgets {
+    width: 160px;
+    height: 200px;
+    background: #16457A;
+    color: #C9C2D1;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Contact {
+    width: 500px;
+    height: 400px;
+    background: #2269BB;
+    color: #C9C2D1;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}

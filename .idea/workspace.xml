@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b92a1ad-1796-4ce7-a5a1-0fa1d74427ac" name="Changes" comment="New HTML">
-      <change afterPath="$PROJECT_DIR$/Lesson1/homework.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson1/homework.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson1/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson1/images/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson1/images/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson1/images/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/blue_blocks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/blue_blocks.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,22 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Liubomyr/IdeaProjects/HTML2023",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Liubomyr/IdeaProjects/HTML2023&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +61,9 @@
       <option name="presentableId" value="Default" />
       <updated>1673977349903</updated>
       <workItem from="1673977351153" duration="2320000" />
-      <workItem from="1673982497105" duration="4717000" />
+      <workItem from="1673982497105" duration="4887000" />
+      <workItem from="1674151758383" duration="109000" />
+      <workItem from="1674207244432" duration="3068000" />
     </task>
     <task id="LOCAL-00001" summary="New HTML">
       <created>1673977535079</created>
@@ -88,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673982536527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New HTML">
+      <created>1673990709100</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673990709100</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
