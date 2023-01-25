@@ -1,0 +1,137 @@
+.main {
+    box-sizing: border-box;
+    width: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.displayFlex {
+    display: flex;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+}
+.logo {
+    width: 100px;
+    height: 60px;
+    background: #676767;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.number {
+    color: red;
+}
+.header {
+    width: 500px;
+    height: 60px;
+    background: #676767;
+    border-left: 2px solid white;
+    border-bottom: 2px solid white;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.nav {
+    width: 100px;
+    height: 240px;
+    background: #676767;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.storeLocator {
+    width: 100px;
+    height: 60px;
+    background: #676767;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.tools {
+    width: 100px;
+    height: 56px;
+    background: #676767;
+    border-right: 2px solid white;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.bath {
+    width: 396px;
+    height: 120px;
+    background: #676767;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.typeBath{
+    width: 396px;
+    height: 240px;
+    background: #676767;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.ad {
+    width: 100px;
+    height: 120px;
+    background: #676767;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.products {
+    width: 100px;
+    height: 240px;
+    background: #676767;
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+.footer {
+    width: 606px;
+    height: 120px;
+    background: #676767;
+    border-top: 2px solid white;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
