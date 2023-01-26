@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7b92a1ad-1796-4ce7-a5a1-0fa1d74427ac" name="Changes" comment="New HTML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/adaptive_base.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/adaptive_base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/adaptive_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/adaptive_base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/30 mobile website design tips.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/30 mobile website design tips.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/30 mobile website design tips.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/30 mobile website design tips.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1674496422852" duration="9006000" />
       <workItem from="1674547924997" duration="325000" />
       <workItem from="1674586613024" duration="14524000" />
-      <workItem from="1674722525373" duration="5172000" />
+      <workItem from="1674722525373" duration="8975000" />
     </task>
     <task id="LOCAL-00001" summary="New HTML">
       <created>1673977535079</created>
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674680730023</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="New HTML">
+      <created>1674727788366</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674727788366</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
