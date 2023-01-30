@@ -218,3 +218,133 @@
     position: relative;
     bottom: 10px;
 }
+
+@media screen and (min-width: 0px) and (max-width: 576px) {
+}
+
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    .block1 {
+        background: white;
+        width: 496px;
+        height: 30px;
+        border: 4px solid black;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 5px;
+    }
+
+    .block2 {
+        display: none;
+    }
+
+    .n2 {
+        display: none;
+    }
+
+    .block3 {
+        height: 80px;
+        border-left: 4px solid black;
+    }
+
+    .block4 {
+        height: 120px;
+        border-left: 4px solid black;
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 5px;
+        row-gap: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        flex-direction: column;
+    }
+
+    .block5 {
+        width: 506px;
+        height: 160px;
+        border-left: 4px solid black;
+    }
+
+    .block6 {
+        width: 506px;
+        height: 80px;
+        border-left: 4px solid black;
+    }
+
+    .block7 {
+        border-left: 4px solid black;
+    }
+
+    .n1 {
+        position: relative;
+        left: 50%;
+    }
+
+    .column > .displayFlex1 > .column > .displayFlex1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .greyBlock3 {
+        height: 60px;
+    }
+
+    .greyBlock4 {
+        width: 200px;
+        height: 50px;
+    }
+
+    .n4 {
+        position: relative;
+        right: 44%;
+        top: 40%;
+    }
+
+    .none {
+        display: none;
+    }
+
+    .greyBlock5 {
+        width: 200px;
+        height: 30px;
+    }
+
+    .greyBlock5_1 {
+        width: 50px;
+        height: 20px;
+        background: silver;
+        position: relative;
+        top: 30%;
+        right: 44%;
+    }
+
+    .pos {
+        position: relative;
+        left: 40px;
+    }
+
+    .n5 {
+        position: relative;
+        bottom: 80px;
+        left: 5px;
+    }
+
+    .greyBlock6 {
+        display: none;
+    }
+
+    .n6 {
+        position: relative;
+        top: 0;
+        right: 0;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+}
+
+@media screen and (min-width: 1200px) {
+}
